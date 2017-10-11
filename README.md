@@ -1,2 +1,0 @@
-# LinearLayout
-belajar contoh linearlayout
